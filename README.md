@@ -14,4 +14,6 @@ To play the game, you are required to have an xbox controller.  To start the gam
 
 
 ## Space War
-(https://github.com/KennethA2001/Space_War_/releases/tag/1.0.0)
+
+[CLICK HERE TO DOWNLOAD](https://github.com/KennethA2001/Space_War_/releases/tag/1.0.0)
+
