@@ -9,3 +9,5 @@ To play the game, you are required to have an xbox controller.  To start the gam
 
 ## Screenshots
 ![alt text](https://raw.githubusercontent.com/KennethA2001/Space_War_/master/space_war/Assets/Images/splash.screen.PNG)
+
+![alt text](https://raw.githubusercontent.com/KennethA2001/Space_War_/master/space_war/Assets/Images/playing.screen.PNG)
